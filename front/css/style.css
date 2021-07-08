@@ -1,0 +1,158 @@
+.log input{
+    margin-left: 25%;
+
+}
+.log button{
+    background-color: #2E5BFF;
+    color:white;
+    width: 50%;
+}
+.log button a{
+    text-decoration: none;
+    color: white;
+}
+.log button:hover{
+    font-size: 15pt;
+    transition: .3s;
+}
+.log hr{
+    width: 70px;
+    height: 1px;
+    background-color:#2E5BFF ;
+}
+.sec h2{
+    margin-left: 21%;
+    margin-top: 10%;
+
+  
+}
+.prs{
+    margin-left: 20%;
+    margin-top: 5%;
+}
+
+.prs input{
+    background-color: #E0E7FF33;
+    margin-bottom: 1%;
+}
+.prs select{
+    background-color: #E0E7FF33;
+    margin-bottom: 1%;
+}
+.prs button{
+    background-color: #2E5BFF;
+    color:white;
+}
+.prs button:hover{
+    color:white;
+    font-size: 15pt;
+    transition: .3s;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 20px;
+}
+.dat select{
+    width: 20%;
+    margin-right: 3%;
+    margin-bottom: 1%;
+
+}
+
+.tab {
+    margin-top: 3%;
+    margin-left: 20%;
+    overflow: hidden;
+    
+  }
+  
+  .tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+  }
+  .tab button.active {
+    border-bottom: 2px solid  #2E5BFF ;
+    
+  }
+  .tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border-top: none;
+  }
+  .acc{
+      margin-left: 20%;
+      margin-top: 3%;
+  }
+.acc input{
+    width: 75%;
+    background-color: #E0E7FF33;
+    margin-bottom: 3%;
+
+
+}
+.acc button{
+    background-color: #2E5BFF;
+    color:white;
+    width: 75%;
+
+}
+.acc button:hover{
+    color:white;
+
+}
+#PersonalInfo{
+    display: block;
+}
+
+
+  
+
+  
+
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+ 
+  
+  

@@ -1,0 +1,42 @@
+* {
+    font-family: 'Cairo', sans-serif;
+}
+.admin-header .search .search-btn
+{
+    position: absolute;
+    left: 0;
+    bottom: 15px;
+}
+
+div.dataTables_wrapper div.dataTables_length select {
+    width: 75px;
+    display: inline-block;
+    height: 22px !important;
+}
+
+div.dataTables_wrapper div.dataTables_filter input
+{
+    border-radius: 5px;
+    background-color: transparent;
+}
+.crud-btn {
+    margin: 0 0 30px 15px;
+    width: 130px;
+    border-radius: 30px;
+}
+
+.form-label
+{
+    display: block;
+    margin-bottom: 10px;
+    color: #000000;
+}
+
+.color {
+    height: 48px;
+}
+
+.admin-header .navbar-brand img
+{
+    height: 51px;
+}
